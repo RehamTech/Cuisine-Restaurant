@@ -52,10 +52,6 @@ Cuisine is a high-end Restaurant Management System built with Laravel, featuring
     php artisan serve
     ```
 
-## 📸 Preview
-
-*(Add your screenshots here)*
-
 ## 📄 License
 
 The Laravel framework is open-source software licensed under the [MIT license](https://opensource.org/licenses/MIT).
