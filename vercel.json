@@ -1,6 +1,7 @@
 {
   "version": 2,
   "framework": "vite",
+  "outputDirectory": "public",
   "functions": {
     "api/lambda.php": {
       "runtime": "vercel-php@0.7.2"
