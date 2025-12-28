@@ -6,7 +6,7 @@
 
 Cuisine is a high-end Restaurant Management System built with Laravel, featuring a luxury dining interface and a robust admin dashboard for meal and category management.
 
-## ✨ Features
+##  Features
 
 - **Luxury Admin Dashboard**: Clean and modern UI for managing the restaurant's offerings.
 - **Category Management**: Organize meals into customizable categories.
@@ -16,13 +16,13 @@ Cuisine is a high-end Restaurant Management System built with Laravel, featuring
 - **Authentic Design**: Uses premium fonts (Playfair Display & Montserrat) for a luxury feel.
 - **Secure Authentication**: Protected admin routes.
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Backend**: Laravel 10+
 - **Frontend**: Blade, Bootstrap 5, FontAwesome
 - **Database**: MySQL
 
-## 🚀 Installation
+##  Installation
 
 1.  **Clone the repository**:
     ```bash
