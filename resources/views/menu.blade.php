@@ -451,7 +451,7 @@
                     'appetizers' => 'https://images.pexels.com/photos/262978/pexels-photo-262978.jpeg',
                     'gourmet-burgers' => 'https://images.pexels.com/photos/1639557/pexels-photo-1639557.jpeg',
                     'fresh-salads' => 'https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg',
-                    'desserts' => 'https://images.pexels.com/photos/291528/pexels-photo-291528.jpeg',
+                    'desserts' => 'https://sallysbakingaddiction.com/wp-content/uploads/2017/02/chocolate-molten-lava-cakes.jpg',
                 ];
             @endphp
             @foreach($meals as $index => $meal)
