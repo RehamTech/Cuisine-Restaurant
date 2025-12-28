@@ -22,36 +22,6 @@ Cuisine is a high-end Restaurant Management System built with Laravel, featuring
 - **Frontend**: Blade, Bootstrap 5, FontAwesome
 - **Database**: MySQL
 
-##  Installation
+## preview
 
-1.  **Clone the repository**:
-    ```bash
-    git clone https://github.com/RehamTech/Cuisine-Restaurant.git
-    cd Cuisine-Restaurant
-    ```
-
-2.  **Install PHP dependencies**:
-    ```bash
-    composer install
-    ```
-
-3.  **Setup Environment**:
-    ```bash
-    cp .env.example .env
-    php artisan key:generate
-    ```
-
-4.  **Database Migration**:
-    Configure your database in `.env` and run:
-    ```bash
-    php artisan migrate
-    ```
-
-5.  **Run the application**:
-    ```bash
-    php artisan serve
-    ```
-
-## 📄 License
-
-The Laravel framework is open-source software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+URL : https://cuisine-restaurant-ggnp-o1xxud41t-rehamtechs-projects.vercel.app/
